@@ -1,5 +1,5 @@
 # Teams
-Desafio feito pela RockTseat aplicativo de equipes ! 
+Desafio aceito e concluido pela RockTseat aplicativo de equipes ! 
 # Baixe o projeto na sua maquina 
 $ Execute npm i na raiz do projeto <br>
 Obs: tenha o Expo CLI local instalado
